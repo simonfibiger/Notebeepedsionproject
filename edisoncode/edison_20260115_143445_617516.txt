@@ -1,0 +1,2633 @@
+def main():
+    Ed.Tempo(120)
+
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(32396, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 333)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(14431, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(14431, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(30578, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(20408, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(28862, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(24270, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22907, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(8581, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(7645, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(15289, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(9091, 250)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(17161, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(11454, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(10204, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(12135, 500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(22908, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(18182, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(13621, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(Ed.NOTE_REST, 750)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
+    Ed.PlayTone(27242, 1500)
+    while Ed.ReadMusicEnd() == 0:
+        pass
+
+main()
