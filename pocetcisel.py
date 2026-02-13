@@ -8,4 +8,4 @@ for number in range(number_count):
 print(f"zadal jsi: {', '.join(str(n) for n in numbers)}")
 print(f"odzadu: {', '.join(str(n) for n in reversed(numbers))}")
 print(f"nejvetsi cislo: {max(numbers)}")
-print(f"nejmensi cislo: {min(numbers)}")
+print(f"nejmensi cislo: {min(numbers)}") 

@@ -122,8 +122,10 @@ class NotesApp:
                     app.run()
                 print("there")
                 online = Online(code = code)
-                online.find_blank()
-                online.write_text(code)
+                online.get_file()
+                online.file_manager()
+                online.click_load()
+
             else:
                 print("Invalid choice. Please enter 1 or 2.")
 

@@ -84,9 +84,9 @@ class TurningIntoEDpyCode:
 
     def createTXT(self, out_dir: str = "edisoncode") -> None:
         """Create a unique path for this run and initialize/clear the file."""
-        os.makedirs(out_dir, exist_ok=True)
+        os.makedirs(out_dir, exist_ok=True) 
         ts = datetime.now().strftime("%Y%m%d_%H%M%S_%f")
-        filename = f"edison_{ts}.txt"
+        filename = f"edison_{ts}.edpy"
         self.path = os.path.join(out_dir, filename)
 
         # Initialize empty file so appends start clean
