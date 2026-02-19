@@ -102,34 +102,42 @@ class TurningIntoEDpyCode:
     def generate_to_file(self):
 
         self.createTXT()
+
         self.save_edpy_code("import Ed")
         self.save_edpy_code("Ed.EdisonVersion = Ed.V3")
         self.save_edpy_code("Ed.Tempo = Ed.TEMPO_FAST")
         self.save_edpy_code("Ed.DistanceUnits = Ed.CM")
         self.save_edpy_code("")
 
+        # create play function (MUCH cleaner output)
+        self.save_edpy_code("def play(note, duration):")
+        self.save_edpy_code("    Ed.PlayTone(note, duration)")
+        self.save_edpy_code("    while Ed.ReadMusicEnd() == Ed.MUSIC_NOT_FINISHED:")
+        self.save_edpy_code("        pass")
+        self.save_edpy_code("")
+
+        # generate melody
         for event in self.notes:
+
             length = self.note_lenghts(event)
 
             if event["type"] == "rest":
-                self.save_edpy_code(
-                    f"Ed.PlayTone(Ed.NOTE_REST, {length})"
-            )
+
+                self.save_edpy_code(f"play(Ed.NOTE_REST, {length})")
+
             else:
+
                 midi = self.note_to_midi(event["note"])
                 midi = self.transpose_to_edison(midi)
 
-            ed_note = self.midi_to_edison.get(midi)
-            if ed_note is None:
-                continue  # cannot be played by engine
+                ed_note = self.midi_to_edison.get(midi)
 
-            self.save_edpy_code(
-                f"Ed.PlayTone({ed_note}, {length})"
-            )
-            self.save_edpy_code("while Ed.ReadMusicEnd()==Ed.MUSIC_NOT_FINISHED:")
-            self.save_edpy_code("    pass")
+                if ed_note is None:
+                    continue
 
-        
+                self.save_edpy_code(f"play({ed_note}, {length})")
+
+            
 #Ed.PlayTone(Ed.NOTE_A_SHARP_6, Ed.NOTE_QUARTER)
 
         """

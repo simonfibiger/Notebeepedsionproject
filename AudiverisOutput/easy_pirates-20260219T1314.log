@@ -1,0 +1,62 @@
+2026-02-19 13:14:33,449 ERROR [easy_pirates]              IOUtils.java:278  | Unmapping is not supported.
+java.lang.reflect.InaccessibleObjectException: Unable to make public jdk.internal.ref.Cleaner java.nio.DirectByteBuffer.cleaner() accessible: module java.base does not "opens java.nio" to unnamed module @6283d8b8
+	at java.base/java.lang.reflect.AccessibleObject.throwInaccessibleObjectException(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.AccessibleObject.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.checkCanSetAccessible(Unknown Source)
+	at java.base/java.lang.reflect.Method.setAccessible(Unknown Source)
+	at org.apache.pdfbox.io.IOUtils.unmapper(IOUtils.java:244)
+	at java.base/java.security.AccessController.doPrivileged(Unknown Source)
+	at org.apache.pdfbox.io.IOUtils.<clinit>(IOUtils.java:69)
+	at org.apache.pdfbox.Loader.loadPDF(Loader.java:378)
+	at org.audiveris.omr.image.ImageLoading.getPdfLoader(ImageLoading.java:159)
+	at org.audiveris.omr.image.ImageLoading.getLoader(ImageLoading.java:209)
+	at org.audiveris.omr.sheet.Book.createStubs(Book.java:554)
+	at org.audiveris.omr.CLI$ProcessingTask.processBook(CLI.java:830)
+	at org.audiveris.omr.CLI$CliTask.call(CLI.java:504)
+	at org.audiveris.omr.Main.runBatchTasks(Main.java:371)
+	at org.audiveris.omr.Main.main(Main.java:260)
+	at Audiveris.main(Audiveris.java:50)
+2026-02-19 13:14:33,508 INFO [easy_pirates]                 Book.java:559  | 1 sheet in C:\programing\notebeepedison\sheets\easy_pirates.pdf
+2026-02-19 13:14:33,694 INFO []                 Book.java:2528 | Stored /book.xml
+2026-02-19 13:14:33,694 INFO []                 Book.java:2488 | Book stored as C:\programing\notebeepedison\AudiverisOutput\easy_pirates.omr
+2026-02-19 13:14:33,700 INFO []                 Book.java:1930 | Book reaching PAGE on sheets:[#1]
+2026-02-19 13:14:33,701 INFO [easy_pirates]       StepMonitoring.java:98   | LOAD
+2026-02-19 13:14:34,154 INFO [easy_pirates]            SheetStub.java:1273 | Loaded image #1 2479x3508 from C:\programing\notebeepedison\sheets\easy_pirates.pdf
+2026-02-19 13:14:34,158 INFO [easy_pirates]       StepMonitoring.java:98   | BINARY
+2026-02-19 13:14:34,884 INFO [easy_pirates]       StepMonitoring.java:98   | SCALE
+2026-02-19 13:14:34,930 INFO [easy_pirates]         ScaleBuilder.java:241  | Beam  guessed height: 10 -- 0.50 of 21 interline
+2026-02-19 13:14:34,932 INFO [easy_pirates]         ScaleBuilder.java:264  | Beam measured height:  7 -- 0.07 of [6..21] range at 869% of needed quorum
+2026-02-19 13:14:34,933 INFO [easy_pirates]            ScaleStep.java:65   | Scale{ interline(20,21,23) line(3,4,4) beam(7)}
+2026-02-19 13:14:34,934 INFO [easy_pirates]       StepMonitoring.java:98   | GRID
+2026-02-19 13:14:35,410 INFO [easy_pirates]       LinesRetriever.java:1500 | Global slope: 0.00000
+2026-02-19 13:14:35,473 INFO [easy_pirates]    ClustersRetriever.java:328  | Retrieved raw line clusters: 8 of sizes [5] with interline(20,21,23)
+2026-02-19 13:14:35,647 INFO [easy_pirates]            PeakGraph.java:310  | Systems: #1[1] #2[2] #3[3] #4[4] #5[5, 6] #6[7, 8]
+2026-02-19 13:14:35,956 INFO [easy_pirates]        SystemManager.java:779  | 1 part along 6 systems
+2026-02-19 13:14:35,958 INFO [easy_pirates]                 Book.java:542  | Created scores: [{Score 1}]
+2026-02-19 13:14:35,959 INFO [easy_pirates]       StepMonitoring.java:98   | HEADERS
+2026-02-19 13:14:36,344 INFO [easy_pirates]      BasicClassifier.java:286  | Classifier loaded XML norms.
+2026-02-19 13:14:36,350 INFO [easy_pirates]   AbstractClassifier.java:396  | Classifier data loaded from default uri jar:file:/C:/Program%20Files/Audiveris/app/audiveris.jar!/res/basic-classifier.zip
+2026-02-19 13:14:40,029 INFO [easy_pirates]       StepMonitoring.java:98   | STEM_SEEDS
+2026-02-19 13:14:40,119 INFO [easy_pirates]        StemSeedsStep.java:86   | stem(7 max:7)
+2026-02-19 13:14:40,191 INFO [easy_pirates]       StepMonitoring.java:98   | BEAMS
+2026-02-19 13:14:43,983 INFO [easy_pirates]       StaffProjector.java:665  | Too high serif for multiple rest in Staff#3 at x:2357
+2026-02-19 13:14:43,984 INFO [easy_pirates]       StaffProjector.java:665  | Too high serif for multiple rest in Staff#3 at x:2361
+2026-02-19 13:14:43,985 INFO [easy_pirates]       StaffProjector.java:665  | Too high serif for multiple rest in Staff#3 at x:1151
+2026-02-19 13:14:43,986 INFO [easy_pirates]       StaffProjector.java:665  | Too high serif for multiple rest in Staff#3 at x:1872
+2026-02-19 13:14:44,116 INFO [easy_pirates]       StepMonitoring.java:98   | LEDGERS
+2026-02-19 13:14:44,351 INFO [easy_pirates]       StepMonitoring.java:98   | HEADS
+2026-02-19 13:14:50,433 INFO [easy_pirates]        HeadSeedTally.java:235  | Scale information: HeadSeeds{NOTEHEAD_VOID[L:-0.2,R:-0.5] NOTEHEAD_BLACK[L:-1.1,R:-1.6]}
+2026-02-19 13:14:50,433 INFO [easy_pirates]       StepMonitoring.java:98   | STEMS
+2026-02-19 13:14:51,057 INFO [easy_pirates]       StepMonitoring.java:98   | REDUCTION
+2026-02-19 13:14:51,119 INFO [easy_pirates]        ReductionStep.java:105  | Stems free length median value: 72 pixels, 3.4 interlines
+2026-02-19 13:14:51,124 INFO [easy_pirates]       StepMonitoring.java:98   | CUE_BEAMS
+2026-02-19 13:14:51,125 INFO [easy_pirates]         CueBeamsStep.java:81   | Step CUE_BEAMS is skipped because small heads switch is off
+2026-02-19 13:14:51,125 INFO [easy_pirates]       StepMonitoring.java:98   | TEXTS
+2026-02-19 13:14:51,271 WARN [easy_pirates]         TesseractOCR.java:335  | The collection of supported languages is empty
+2026-02-19 13:14:51,272 INFO [easy_pirates]              OcrUtil.java:106  | Missing support for 'eng' language(s)
+2026-02-19 13:14:51,281 INFO [easy_pirates]       StepMonitoring.java:98   | MEASURES
+2026-02-19 13:14:51,294 INFO [easy_pirates]                 Page.java:307  | 20 raw measures: [1 in system#1, 1 in system#2, 1 in system#3, 1 in system#4, 8 in system#5, 8 in system#6]
+2026-02-19 13:14:51,294 INFO [easy_pirates]       StepMonitoring.java:98   | CHORDS
+2026-02-19 13:14:51,315 INFO [easy_pirates]       StepMonitoring.java:98   | CURVES
+2026-02-19 13:14:53,494 INFO [easy_pirates]         SlursBuilder.java:240  | Slurs: 6
